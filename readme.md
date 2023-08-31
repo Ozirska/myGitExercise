@@ -3,3 +3,6 @@
 # AFTERNOON
 
 # EVENING
+
+- dinner
+- get rest
