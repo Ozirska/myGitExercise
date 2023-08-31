@@ -5,7 +5,7 @@
 
 # AFTERNOON
 
-- worck
+- work
 - lunch
 
 # EVENING
